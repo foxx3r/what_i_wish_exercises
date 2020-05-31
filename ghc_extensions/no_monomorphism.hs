@@ -2,7 +2,7 @@
 
 module Good(foo, bar) where
 
--- if the eztension hadn't being specified
+-- if the extension hadn't being specified
 -- it would be
 -- foo :: Integer -> Integer
 -- but it is
