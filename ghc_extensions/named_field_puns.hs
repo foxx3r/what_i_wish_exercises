@@ -1,4 +1,4 @@
-{-# LANGUAGE NamedFiwldPuns #-}
+{-# LANGUAGE NamedFieldPuns #-}
 
 data D = D { a :: Int, b :: Int }
 
