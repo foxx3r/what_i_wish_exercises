@@ -1,0 +1,2 @@
+{-# LANGUAGE TypeSynonymInstances #-}
+{-# LANGUAGE Flexi}
