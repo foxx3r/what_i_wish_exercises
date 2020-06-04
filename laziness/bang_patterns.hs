@@ -13,5 +13,5 @@ sum = go 0
         where
             go acc _ | acc `seq` False = undefined
             go acc (x:xs) = go (acc + x) xs
-            go acc [] = acc]
+            go acc [] = acc
 -}
